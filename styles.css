@@ -1,0 +1,39 @@
+.q{
+    text-align:center;
+    font-family: 'Noto Sans KR', sans-serif;
+    border:solid black 5px;
+    border-radius:50px;
+    background-color:crimson;
+}
+.w{
+    text-align:center;
+    font-family: 'Abel', sans-serif;
+    border:solid blue 5px;
+    padding:12px;
+    background-color:lightseagreen;
+}
+.e{
+    height:300px;
+    width:300px;
+    
+    
+}
+.r{
+    height:300px;
+    width:400px;
+    border:firebrick 5px;
+}
+.t{
+    height:300px;
+    width:400px;
+    border:solid blue 5px;
+}
+body {
+    background-image: url(https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/62c36898c1fccfb889efeb7ccefb50b7);
+}
+.mm{
+    display: flex;
+ justify-content:space-around;
+    margin:30px;
+    padding:30px;
+}
